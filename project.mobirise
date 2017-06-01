@@ -1,0 +1,2131 @@
+{
+  "settings": {
+    "name": "Sport Brave",
+    "currentPage": "project.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f3c649",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Indie Flower",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 66,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SportBrave<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"project.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>系統特色</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>團隊介紹</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"document.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>相關文件</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fitbit.html\"><span class=\"mbri-watch mbr-iconfont mbr-iconfont-btn\"></span>Fitbit手環</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-u\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>聯絡我們</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "B": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "font-size": "60px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/c66ee37278a01a0d19189d3cd3963506-2000x1334.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Fitbit 運動手環<br>",
+                "showText": true,
+                "text": "<b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Fitbit 透過追蹤您的全日活動量、鍛鍊、睡眠與體重，協助您活出健康均衡的生活。</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">更多...<br></a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Unity Game &nbsp;",
+                "showText": true,
+                "text": "<b><br>希望藉由遊戲的方式，<br><font color=\"#000000\">使的小朋友能在玩遊戲的過程中達到減肥之效</font>。</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SportBrave",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b><br></b></span><b><font color=\"#000000\"><span style=\"font-style: normal;\">使</span>用unity引擎和</font>Fitbit運動手環</b><span style=\"font-style: normal;\">，</span><b><br>打造出一款能將娛樂和運動結合在一起的新概念<br>邊做運動邊玩遊戲</b><span style=\"font-style: normal;\">。</span>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-m",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > div FONT": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".card-footer > div": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".card-block": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            ".card-block B": {
+              "text-align": "center"
+            },
+            ".card-block P": {
+              "text-align": "left"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><span style=\"font-style: normal;\"><b>\"在近期的報導上，國小學童過重及肥胖比例已達29%。高血壓、心臟病等心血管疾病，脂肪肝、退化性關節炎，甚至是癌症等非傳染性疾病，都和肥胖息息相關。<span style=\"line-height: 2;\">&nbsp;我們發現國民健康署近期調查指出，台灣6至11歲的兒童只有4.3%身體活動量達WHO的建議值（每天都應達到60分鐘以上中度身體活動）。有鑑於此,本專題研究以IOT的方式結合了fitbit運動手環和手機app遊戲。\"</span></b></span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/241556091322-156x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.parenting.com.tw/article/5044285-%E5%8F%B0%E7%81%A3%E5%85%92%E7%AB%A5%E7%BC%BA%E4%B9%8F%E9%81%8B%E5%8B%95+%E8%82%A5%E8%83%96%E7%8E%87%E5%85%A8%E7%90%83%E7%AC%AC16/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "小朋友肥胖問題",
+              "authorBio": ""
+            },
+            {
+              "text": "<p><span style=\"font-style: normal;\"><b><span style=\"line-height: 2;\">\"</span><span style=\"line-height: 2;\">為協助國人擺脫肥胖帶來的威脅，我國衛生署福利部國民健康國民署提倡學會「聰明吃、快樂動、天天量體重」健康生活，改善我國孩童致胖環境，我們希望提供一個遊戲結合運動手環使小朋友能在玩遊戲的之中達到運動減肥之效果，使在運動的期間不會感到無聊，反而喜歡上運動\"</span></b></span><span style=\"line-height: 2;\">&nbsp; </span></p><p><span style=\"line-height: 2;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/images-160x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "http://obesity.hpa.gov.tw/TC/index.aspx",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "政府相關推動",
+              "authorBio": ""
+            },
+            {
+              "text": "<p><span style=\"font-style: normal;\"><b>\"相比市場上比比皆是的運動型app單單只記錄運動的數據，這些冰冰冷冷的數據，其實小朋友運動期間並不會其數字背後真正的意義，我們們藉著遊戲的方式<span style=\"line-height: 2;\">把這些運動數據轉換成遊戲中角<span style=\"line-height: 2;\">色的能力值，讓小朋友在玩遊戲的過程中，學習到健康運動的重要性\"</span></span></b></span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/images-1-115x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "<font color=\"#000000\">純運動型app單一紀錄</font>",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "count": "3",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "研究動機",
+          "subtitle": "<font color=\"#000000\"><b>&nbsp;Why are we do this project? &nbsp;&nbsp;</b></font>"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".card-block P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "18px",
+              "color": "#565656"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><b style=\"font-style: normal;\">未來希望能與各運動手環公司合作，提供我們更周全的功能，我們也可以運用遊戲的吸引力達到手環暢銷的機會。也希望以後鎖定的族群可以更寬更廣，讓需要體重控制的成年人或青少年，也可以進入SportBrave的遊戲世界。</b></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "SPORT BRAVE TEAM",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-1p",
+          "_params": {
+            "count": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "<font color=\"#000000\">未來展望</font>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "台中市南區南和路213號3樓之3",
+              "placeId": "ChIJY-7zzfg8aTQR_g665GqWF-U",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>地址 ( Address )</b></span></font></p><p><br>中興工作室:</p><p><br><font color=\"#000000\">台中市南區南和路213號3樓之3</font><br><br><font face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>聯絡方式 ( Contacts )</b></span></font></p><p><br>\nEmail: </p><br><p>andy.nba85@gmail.com&nbsp;</p><p>williamking0527@gmail.com&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>tingken0214@gmail.com &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">a084117@gmail.com</span><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 0.875rem; line-height: 1.5;\">有相關的問題歡迎聯絡我們!</b></p>",
+          "text2": "<p class=\"mbr-contacts__text\">FB</p><ul><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100000208887005\" class=\"text-white\">丁之凱</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002634270225\" class=\"text-white\">謝曜陽</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002520716579\" class=\"text-white\">黃崇崴</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/di.hsiao.3\" class=\"text-white\">蕭旻廸</a></span></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "team.html": {
+      "settings": {
+        "title": "Web Creator Title",
+        "meta_descr": "Web Creator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-11",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1364.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Sport Brave Project Team...",
+          "text": "<span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>在現今科技發達的時代裡,小孩子已經離不開智慧型科技產品了, 我們研發出一套手機遊戲，讓兒童能為了遊戲而運動，市面上有許多app都有計步計時等功能，但是單純的計算功能並不能促使不想運動的兒童踏出健康的第一步 ! 我們要讓使用者知道，遊戲並不只是遊戲，使用者在運動且玩遊戲過後，不知不覺就已經達到了運動的效果了!</b></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-12",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Sport Brave 製作團隊<br>&nbsp;&nbsp;",
+          "text": "<p><a href=\"http://\"><!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KjNjr97ssG4eldQ2nQe\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a><a href=\"http://\"></a></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SportBrave<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"project.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>系統特色</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>團隊介紹</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"document.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>相關文件</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fitbit.html\"><span class=\"mbri-watch mbr-iconfont mbr-iconfont-btn\"></span>Fitbit手環</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-u\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>聯絡我們</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features1-17",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/14470532-1101016396659040-3085131337012921575-n-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "黃崇崴",
+          "subtitle1": "",
+          "caption1": "失敗的歷程也<br>是成功的歷程<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/profile.php?id=100002520716579\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contacts...</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/12932606-1320322797984670-4857735340343286908-n-1-600x603.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "丁之凱",
+          "subtitle2": "",
+          "caption2": "勤奮，<br>是步入成功之門的通行證",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/profile.php?id=100000208887005\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contacts...</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/14462795-1049074451857021-4154204650579194395-n-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "謝曜陽",
+          "subtitle3": "",
+          "caption3": "人生最大的錯誤是<br>不斷擔心會犯錯<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/profile.php?id=100002634270225\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contacts...</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15039544-1759029654358287-3324202933157064495-o-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "蕭旻廸",
+          "subtitle4": "",
+          "caption4": "自信，<br>是成功的第一訣竅<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/di.hsiao.3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contacts...</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "台中市南區南和路213號3樓之3",
+              "placeId": "ChIJY-7zzfg8aTQR_g665GqWF-U",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>地址 ( Address )</b></span></font></p><p><br>中興工作室:</p><p><br><font color=\"#000000\">台中市南區南和路213號3樓之3</font><br><br><font face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>聯絡方式 ( Contacts )</b></span></font></p><p><br>\nEmail: </p><br><p>andy.nba85@gmail.com&nbsp;</p><p>williamking0527@gmail.com&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>tingken0214@gmail.com &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">a084117@gmail.com</span><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 0.875rem; line-height: 1.5;\">有相關的問題歡迎聯絡我們!</b></p>",
+          "text2": "<p class=\"mbr-contacts__text\">FB</p><ul><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100000208887005\" class=\"text-white\">丁之凱</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002634270225\" class=\"text-white\">謝曜陽</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002520716579\" class=\"text-white\">黃崇崴</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/di.hsiao.3\" class=\"text-white\">蕭旻廸</a></span></li></ul>"
+        }
+      ]
+    },
+    "fitbit.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SportBrave<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"project.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>系統特色</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>團隊介紹</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"document.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>相關文件</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fitbit.html\"><span class=\"mbri-watch mbr-iconfont mbr-iconfont-btn\"></span>Fitbit手環</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-u\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>聯絡我們</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-f",
+          "_params": {
+            "imageSize": "35",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/000001-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<font color=\"#000000\">Fitbit Charge 2</font>",
+          "text": "<b>最受歡迎的 Fitbit 手環推出優化版本。除了 PurePulse 心跳速率追蹤功能之外，這款手環現在升級加入運動功能、新的健康與健身工具、您最需要的智慧提示功能、加大尺寸的顯示螢幕、以及可替換的手環錶帶，運動及社交場合均適宜配戴。</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.fitbit.com/tw/charge2\" data-toolbar=\"-mbrBtnMove\">更多...</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=l3u_8_zEEp0\" data-toolbar=\"-mbrBtnMove\">操作說明...</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-g",
+          "_params": {
+            "imageSize": "35",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/images-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Fitbit Flex 2",
+          "text": "<b>Fitbit 首款超薄防水健身手環，其特點是可拆式的追蹤紀錄器，可隨意搭配經典款手環錶帶、優雅的手鐲或墜飾，讓您根據自己喜好的方式，輕鬆記錄整日活動、運動與睡眠。 </b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.fitbit.com/tw/flex2\" data-toolbar=\"-mbrBtnMove\">更多...</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=gOALHcKRWAM\" data-toolbar=\"-mbrBtnMove\">操作說明...</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "22px"
+            },
+            "H3": {
+              "color": "#d14841"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1k",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/PxpxRoWmjq8?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=a_KGhoIOLDw&index=3&list=PL_xLGCqFuhiERByEP1f6YWCAtYiaTBLY8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "fitbit app operation<br>",
+          "text": "針對fitbit在android平台上介面的操作介紹<br>讓使用者能更加迅速的學會使用，能立即體驗<br>fitbit運動手環所帶來的高品質服務",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "台中市南區南和路213號3樓之3",
+              "placeId": "ChIJY-7zzfg8aTQR_g665GqWF-U",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>地址 ( Address )</b></span></font></p><p><br>中興工作室:</p><p><br><font color=\"#000000\">台中市南區南和路213號3樓之3</font><br><br><font face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>聯絡方式 ( Contacts )</b></span></font></p><p><br>\nEmail: </p><br><p>andy.nba85@gmail.com&nbsp;</p><p>williamking0527@gmail.com&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>tingken0214@gmail.com &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">a084117@gmail.com</span><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 0.875rem; line-height: 1.5;\">有相關的問題歡迎聯絡我們!</b></p>",
+          "text2": "<p class=\"mbr-contacts__text\">FB</p><ul><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100000208887005\" class=\"text-white\">丁之凱</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002634270225\" class=\"text-white\">謝曜陽</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002520716579\" class=\"text-white\">黃崇崴</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/di.hsiao.3\" class=\"text-white\">蕭旻廸</a></span></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "document.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><a href=\"http://\" class=\"text-primary\">&nbsp;<!-- Place this tag where you want the Awesome Table Widget to render --> </a></p><div data-type=\"AwesomeTableView\" data-viewid=\"-Kk-Zf0nWXGkvSeNfm3h\"></div><a href=\"http://\">  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "SPORT BRAVE TEAM",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-1r",
+          "_params": {
+            "count": "1",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "相關文件",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SportBrave<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"project.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>系統特色</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>團隊介紹</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"document.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>相關文件</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fitbit.html\"><span class=\"mbri-watch mbr-iconfont mbr-iconfont-btn\"></span>Fitbit手環</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-u\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>聯絡我們</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".card-footer > div": {
+              "font-size": "20px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><a href=\"http://\">&nbsp;<!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-Kk8zIsUJ9zEfyK22n_x\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a>&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "SPORT BRAVE TEAM",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-1q",
+          "_params": {
+            "count": "1",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "SPORT BRAVE GANTT CHART",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "台中市南區南和路213號3樓之3",
+              "placeId": "ChIJY-7zzfg8aTQR_g665GqWF-U",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>地址 ( Address )</b></span></font></p><p><br>中興工作室:</p><p><br><font color=\"#000000\">台中市南區南和路213號3樓之3</font><br><br><font face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>聯絡方式 ( Contacts )</b></span></font></p><p><br>\nEmail: </p><br><p>andy.nba85@gmail.com&nbsp;</p><p>williamking0527@gmail.com&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>tingken0214@gmail.com &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">a084117@gmail.com</span><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 0.875rem; line-height: 1.5;\">有相關的問題歡迎聯絡我們!</b></p>",
+          "text2": "<p class=\"mbr-contacts__text\">FB</p><ul><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100000208887005\" class=\"text-white\">丁之凱</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002634270225\" class=\"text-white\">謝曜陽</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002520716579\" class=\"text-white\">黃崇崴</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/di.hsiao.3\" class=\"text-white\">蕭旻廸</a></span></li></ul>"
+        }
+      ]
+    },
+    "project.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "46px",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "相關技術<br>",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SportBrave<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"project.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>系統特色</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>團隊介紹</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"document.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>相關文件</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fitbit.html\"><span class=\"mbri-watch mbr-iconfont mbr-iconfont-btn\"></span>Fitbit手環</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-u\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>聯絡我們</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1s",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/api-1400x1785.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<font color=\"#000000\">如何取得Fitbit手環的資料?</font>",
+          "text": "利用fitbit的API抓取其雲端資料庫的運動資料，再藉此同步到我們的資料庫中加以利用。",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://dev.fitbit.com/docs/\" data-toolbar=\"-mbrBtnMove\">更多...</a>",
+          "_styles": {
+            "FONT": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "46px"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "46px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "專案目的<br>",
+          "meta": ""
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title FONT": {
+              "font-size": "30px",
+              "color": "#3d8eb9"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "30px",
+              "color": "#41a85f"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#3d8eb9",
+              "font-size": "30px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features2-1g",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "sun",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "OUTSIDE",
+          "subtitle1": "",
+          "caption1": "在遊戲任務的設計裡。我們運用google map 結合地圖open data在使用者附近的地點跳出了緊急任務，可以提升遊戲的趣味性。使用者也可以藉此，踏出健康的一大步，使現在小朋友時常窩在家裡打電動的情形改善。<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "bike",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "<font color=\"#000000\">Sport</font>",
+          "subtitle2": "",
+          "caption2": "<font color=\"#000000\">近年來小朋友肥胖的問題日趨嚴重</font>，這個問題是家長們需要去重視的，藉由這個遊戲促使小朋友去運動的一個契機，達到健康玩快樂動之效果",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "MOBILE",
+          "subtitle3": "",
+          "caption3": "在這人手一機的時代，只需要一台手機和一支Fitbit運動手環，隨即按下同步鍵就可以立馬去運動，隨即開始玩遊戲，達到不管到哪裡都可以遊玩的效果。",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Heath Knowledge",
+          "subtitle4": "",
+          "caption4": "採用主題式過關遊戲設計，循序漸進的帶領小朋友運用遊戲裡的腳色與垃圾食品怪物打鬥，使他們在玩遊戲的過程中，學到哪些食物的對人可能是健康的哪些食物可能是不好的。",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "FONT": {
+              "font-size": "46px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "<font color=\"#000000\">Sport Brave 遊戲介面</font><font color=\"#000000\"><br></font>",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18472447-1330422510385093-644514707-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18472447-1330422510385093-644514707-o-2000x3555.png",
+                "caption": "遊戲首頁",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18493834-1330422580385086-461224973-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18493834-1330422580385086-461224973-o-2000x3555.png",
+                "caption": "運動首頁",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18493679-1330422643718413-1324198472-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18493679-1330422643718413-1324198472-o-2000x3555.png",
+                "caption": "城堡主頁",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18472646-1330422763718401-253974600-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18472646-1330422763718401-253974600-o-2000x3555.png",
+                "caption": "戰鬥主頁",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18472179-1330422533718424-540916581-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18472179-1330422533718424-540916581-o-2000x3555.png",
+                "caption": "<font color=\"#000000\">商店主頁</font>",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18472264-1330422623718415-1945340672-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18472264-1330422623718415-1945340672-o-2000x3555.png",
+                "caption": "物品主頁",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18518970-1330422723718405-852389131-o-1-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18518970-1330422723718405-852389131-o-1-2000x3555.png",
+                "caption": "<font color=\"#000000\">關卡主頁</font>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18518992-1330422607051750-1190470669-o-2000x3555-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/18518992-1330422607051750-1190470669-o-2000x3555.png",
+                "caption": "<font color=\"#000000\">任務主頁</font>",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1c",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "FONT": {
+              "font-size": "46px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "<font color=\"#000000\">系統環境</font>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "FONT": {
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features3-1b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/firebase-logo-shot-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<font color=\"#000000\">Firebase</font>",
+          "subtitle1": "<span style=\"font-style: normal;\"><b>雲端資料庫</b></span>",
+          "caption1": "FireBase雲端資料庫可以提供離線處理，在網路不好的情況下可以不必受到干擾。將使用者在Fitbit雲端資料庫存入我們的Firebase資料庫使我們開發的時候能迅速利用這些運動資料轉換成遊戲內的數據.....<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">更多...</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/q-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<font color=\"#000000\">Open Data</font>",
+          "subtitle2": "<b style=\"font-size: 0.875rem; line-height: 1.7857; font-style: normal;\">政府開放資料</b><br>",
+          "caption2": "運用台中各地景點、運動地點結合google map，使用Fusion Table將地點標記在地圖上，並代表各個任務點，必須透過GPS定位移動至地點附近來接取任務。透過食物營養含量OpenData來代表食物怪物的各項戰鬥能力值.....<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">更多...</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/w-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<font color=\"#000000\">Unity</font>",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>遊戲引擎</b></span>",
+          "caption3": "Unity為現今國內開發者使用最多的引擎，資源和討論區相當的豐富，作品和案例也相當地多。雖然是國外引擎，有Bug的話比較麻煩，但是由於資料的充足，在台灣也是相當地搶手。我們利用Unity game engine設計各個功能的語法.....<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">更多...</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "台中市南區南和路213號3樓之3",
+              "placeId": "ChIJY-7zzfg8aTQR_g665GqWF-U",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>地址 ( Address )</b></span></font></p><p><br>中興工作室:</p><p><br><font color=\"#000000\">台中市南區南和路213號3樓之3</font><br><br><font face=\"Indie Flower, cursive\" size=\"3\"><span style=\"letter-spacing: -0.8888888955116272px; line-height: 8.88888931274414px;\"><b>聯絡方式 ( Contacts )</b></span></font></p><p><br>\nEmail: </p><br><p>andy.nba85@gmail.com&nbsp;</p><p>williamking0527@gmail.com&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>tingken0214@gmail.com &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">a084117@gmail.com</span><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 0.875rem; line-height: 1.5;\">有相關的問題歡迎聯絡我們!</b></p>",
+          "text2": "<p class=\"mbr-contacts__text\">FB</p><ul><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100000208887005\" class=\"text-white\">丁之凱</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002634270225\" class=\"text-white\">謝曜陽</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/profile.php?id=100002520716579\" class=\"text-white\">黃崇崴</a></span></li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.facebook.com/di.hsiao.3\" class=\"text-white\">蕭旻廸</a></span></li></ul>"
+        }
+      ]
+    }
+  }
+}
